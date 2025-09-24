@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
         <h1>Community Events Board</h1>
-        <p>Discover events and resources happening around your community!</p>
+        <p>Discover events and resources happening around SDSU!</p>
       </header>
       <CardGrid events={events} />
     </div>
